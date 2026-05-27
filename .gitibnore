@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+env/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# 임시 오디오 파일
+*.tmp
+*_conv.wav
+*_converted.wav
+
+# OS
+.DS_Store
+Thumbs.db
