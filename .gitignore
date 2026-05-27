@@ -1,5 +1,6 @@
 # Python
-__pycache__/
+
+**pycache**/
 *.py[cod]
 *.pyo
 .env
@@ -8,13 +9,20 @@ venv/
 env/
 
 # Streamlit
+
 .streamlit/secrets.toml
 
-# 임시 오디오 파일
+# Temporary audio
+
 *.tmp
-*_conv.wav
-*_converted.wav
+*.wav
+*.mp3
+
+# Jupyter
+
+.ipynb_checkpoints/
 
 # OS
+
 .DS_Store
 Thumbs.db
