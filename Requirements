@@ -1,0 +1,6 @@
+streamlit>=1.35
+SpeechRecognition>=3.10
+pydub>=0.25
+librosa>=0.10
+plotly>=5.20
+audio-recorder-streamlit>=0.0.8
